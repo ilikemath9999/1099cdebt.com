@@ -1,20 +1,21 @@
-# 1099-C Cancellation of Debt -- Tax Guide [2026]
+# 1099-C Cancellation of Debt - Tax Guide [2026]
 > Got a 1099-C for cancelled debt? Learn when forgiven debt is taxable, insolvency exceptions, and how bankruptcy affects it. 2026 tax guide. [1099-C Debt]
 
 ## About
 1099cdebt.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Cancelled Mortgage Debt -- Tax Implications of Foreclosure and Short Sale: https://1099cdebt.com/cancelled-mortgage-debt.html
-- Common 1099-C Mistakes -- Errors That Cost You Money: https://1099cdebt.com/common-mistakes.html
-- Credit Card Debt Cancellation and Taxes -- The 1099-C You Weren't Expecting: https://1099cdebt.com/credit-card-cancellation.html
-- How to File IRS Form 982 -- Step-by-Step Instructions: https://1099cdebt.com/how-to-file-form-982.html
-- 1099-C Cancellation of Debt -- Tax Guide: https://1099cdebt.com/
-- Insolvency Exclusion for 1099-C Debt -- How to Avoid the Tax: https://1099cdebt.com/insolvency-exclusion.html
-- Short Sale Tax Impact -- What You Owe the IRS After Selling for Less: https://1099cdebt.com/short-sale-tax-impact.html
-- Statute of Limitations on 1099-C -- When Old Cancelled Debt Tax Expires: https://1099cdebt.com/sol-on-1099c.html
-- Student Loan Cancellation and Taxes -- Is Forgiveness Taxable?: https://1099cdebt.com/student-loan-cancellation.html
-- What Is a 1099-C? -- Cancellation of Debt Income: https://1099cdebt.com/what-is-1099-c.html
+- Cancelled Mortgage Debt - Tax Implications of Foreclosure and Short Sale: https://1099cdebt.com/cancelled-mortgage-debt.html
+- Common 1099-C Mistakes - Errors That Cost You Money: https://1099cdebt.com/common-mistakes.html
+- Credit Card Debt Cancellation and Taxes - The 1099-C You Weren't Expecting: https://1099cdebt.com/credit-card-cancellation.html
+- How to File IRS Form 982 - Step-by-Step Instructions: https://1099cdebt.com/how-to-file-form-982.html
+- 1099-C Cancellation of Debt - Tax Guide: https://1099cdebt.com/
+- Insolvency Exclusion for 1099-C Debt - How to Avoid the Tax: https://1099cdebt.com/insolvency-exclusion.html
+- Short Sale Tax Impact - What You Owe the IRS After Selling for Less: https://1099cdebt.com/short-sale-tax-impact.html
+- Statute of Limitations on 1099-C - When Old Cancelled Debt Tax Expires: https://1099cdebt.com/sol-on-1099c.html
+- Student Loan Cancellation and Taxes - Is Forgiveness Taxable?: https://1099cdebt.com/student-loan-cancellation.html
+- What Is a 1099-C? - Cancellation of Debt Income: https://1099cdebt.com/what-is-1099-c.html
+- Privacy Policy: https://1099cdebt.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

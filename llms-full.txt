@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Cancelled Mortgage Debt -- Tax Implications of Foreclosure and Short Sale
+## Cancelled Mortgage Debt - Tax Implications of Foreclosure and Short Sale
 Source: https://1099cdebt.com/cancelled-mortgage-debt.html
 
 Cancelled Mortgage Debt
@@ -23,13 +23,13 @@ Mortgage modifications that reduce your principal balance also create cancelled 
 
 The Mortgage Forgiveness Debt Relief Act
 
-The Mortgage Forgiveness Debt Relief Act (originally enacted 2007) excludes up to $750,000 of cancelled debt on a qualified principal residence. This exclusion has been extended multiple times and may or may not be available for the current tax year -- check IRS.gov for the latest status. When available, it covers foreclosure, short sale, and principal reduction on your primary home.
+The Mortgage Forgiveness Debt Relief Act (originally enacted 2007) excludes up to $750,000 of cancelled debt on a qualified principal residence. This exclusion has been extended multiple times and may or may not be available for the current tax year - check IRS.gov for the latest status. When available, it covers foreclosure, short sale, and principal reduction on your primary home.
 
 This exclusion does NOT apply to: rental properties, second homes, home equity lines of credit used for purposes other than home improvement, or cash-out refinance amounts. For those situations, use the insolvency exclusion instead.
 
 Non-Recourse vs. Recourse Loans
 
-The tax treatment depends on whether your mortgage is recourse (lender can pursue you for the deficiency) or non-recourse (lender's only remedy is the property). In non-recourse states (like California for purchase money mortgages), the foreclosure is treated as a sale -- you have a capital gain or loss, but no cancellation of debt income. In recourse states, the deficiency is cancelled debt income unless an exclusion applies.
+The tax treatment depends on whether your mortgage is recourse (lender can pursue you for the deficiency) or non-recourse (lender's only remedy is the property). In non-recourse states (like California for purchase money mortgages), the foreclosure is treated as a sale - you have a capital gain or loss, but no cancellation of debt income. In recourse states, the deficiency is cancelled debt income unless an exclusion applies.
 
 The distinction matters enormously for taxes. Non-recourse foreclosure: no 1099-C, no cancelled debt income. Recourse foreclosure: potential 1099-C for the deficiency amount. Know your state's recourse/non-recourse rules and whether your specific mortgage qualifies. Learn about the statute of limitations on deficiency judgments.
 
@@ -41,7 +41,7 @@ The Act covers cancelled debt on your principal residence (where you live). It d
 
 What if I sold my house in a short sale years ago and didn't file Form 982?
 
-You may need to file amended returns for the year(s) affected. If you qualify for the mortgage exclusion or insolvency exclusion, the amendment could result in a refund. Consult a tax professional -- you have 3 years from the filing date to claim a refund.
+You may need to file amended returns for the year(s) affected. If you qualify for the mortgage exclusion or insolvency exclusion, the amendment could result in a refund. Consult a tax professional - you have 3 years from the filing date to claim a refund.
 
 Can I use both the mortgage exclusion and insolvency exclusion?
 
@@ -75,7 +75,7 @@ Further Reading & Resources
 Authority sources for deeper research on taxes and bankruptcy:
 
 11 U.S.C. Section 523(a)(1)
-Cornell LII -- tax debt exception
+Cornell LII - tax debt exception
 
 IRS Publication 908
 IRS bankruptcy tax guide
@@ -159,7 +159,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Common 1099-C Mistakes -- Errors That Cost You Money
+## Common 1099-C Mistakes - Errors That Cost You Money
 Source: https://1099cdebt.com/common-mistakes.html
 
 Common 1099-C Mistakes
@@ -176,7 +176,7 @@ Fix: Always address 1099-Cs on your return. If you qualify for an exclusion, fil
 
 Mistake 2: Not Claiming the Insolvency Exclusion
 
-Many people pay tax on cancelled debt they didn't need to pay because they didn't know about the insolvency exclusion. If your debts exceeded your assets at the time of cancellation -- which is common for people who are settling debts or having debts written off -- some or all of the 1099-C income is excludable.
+Many people pay tax on cancelled debt they didn't need to pay because they didn't know about the insolvency exclusion. If your debts exceeded your assets at the time of cancellation - which is common for people who are settling debts or having debts written off - some or all of the 1099-C income is excludable.
 
 Fix: Calculate your insolvency before paying tax on any 1099-C. List all debts and all assets as of the cancellation date. If debts > assets, you're insolvent and can exclude at least a portion. Many taxpayers are surprised to find they can exclude 100% of the income.
 
@@ -234,7 +234,7 @@ Further Reading & Resources
 Authority sources for deeper research on taxes and bankruptcy:
 
 11 U.S.C. Section 523(a)(1)
-Cornell LII -- tax debt exception
+Cornell LII - tax debt exception
 
 IRS Publication 908
 IRS bankruptcy tax guide
@@ -318,7 +318,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Credit Card Debt Cancellation and Taxes -- The 1099-C You Weren't Expecting
+## Credit Card Debt Cancellation and Taxes - The 1099-C You Weren't Expecting
 Source: https://1099cdebt.com/credit-card-cancellation.html
 
 Credit Card Debt Cancellation
@@ -387,7 +387,7 @@ Further Reading & Resources
 Authority sources for deeper research on taxes and bankruptcy:
 
 11 U.S.C. Section 523(a)(1)
-Cornell LII -- tax debt exception
+Cornell LII - tax debt exception
 
 IRS Publication 908
 IRS bankruptcy tax guide
@@ -471,7 +471,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## How to File IRS Form 982 -- Step-by-Step Instructions
+## How to File IRS Form 982 - Step-by-Step Instructions
 Source: https://1099cdebt.com/how-to-file-form-982.html
 
 How to File IRS Form 982
@@ -488,13 +488,13 @@ Form 982 must be filed with the tax return for the year the debt was cancelled. 
 
 Completing the Form
 
-Part I -- General Information: Check the applicable box (1a for bankruptcy, 1b for insolvency). Line 2: Enter the total amount of discharged debt excluded from income. For insolvency, this is the lesser of: the cancelled debt amount or your insolvency amount. For bankruptcy, this is the full cancelled amount.
+Part I - General Information: Check the applicable box (1a for bankruptcy, 1b for insolvency). Line 2: Enter the total amount of discharged debt excluded from income. For insolvency, this is the lesser of: the cancelled debt amount or your insolvency amount. For bankruptcy, this is the full cancelled amount.
 
-Part II -- Reduction of Tax Attributes: This is required. When you exclude cancelled debt, you must reduce certain tax attributes (net operating losses, credit carryovers, and ultimately, the basis of your property). Line 10a is the most commonly used -- reduction of basis in depreciable/non-depreciable property. Most individual filers can reduce the basis of their assets by the excluded amount.
+Part II - Reduction of Tax Attributes: This is required. When you exclude cancelled debt, you must reduce certain tax attributes (net operating losses, credit carryovers, and ultimately, the basis of your property). Line 10a is the most commonly used - reduction of basis in depreciable/non-depreciable property. Most individual filers can reduce the basis of their assets by the excluded amount.
 
 Common Filing Mistakes
 
-1. Not filing Form 982 at all -- many people receive 1099-Cs and either ignore them or pay the tax without knowing about exclusions. 2. Incorrect insolvency calculation -- forgetting to include all debts or all assets. 3. Wrong tax year -- the exclusion must be claimed for the year shown on the 1099-C. 4. Not reducing tax attributes -- Part II of Form 982 is mandatory. 5. Not keeping documentation -- the insolvency worksheet should be kept with your tax records in case of audit.
+1. Not filing Form 982 at all - many people receive 1099-Cs and either ignore them or pay the tax without knowing about exclusions. 2. Incorrect insolvency calculation - forgetting to include all debts or all assets. 3. Wrong tax year - the exclusion must be claimed for the year shown on the 1099-C. 4. Not reducing tax attributes - Part II of Form 982 is mandatory. 5. Not keeping documentation - the insolvency worksheet should be kept with your tax records in case of audit.
 
 Consider using a tax professional if you received a large 1099-C or if your situation is complex (multiple cancellations, partial insolvency, bankruptcy). The cost of professional preparation is usually worth it to avoid errors that could trigger an audit.
 
@@ -540,7 +540,7 @@ Further Reading & Resources
 Authority sources for deeper research on taxes and bankruptcy:
 
 11 U.S.C. Section 523(a)(1)
-Cornell LII -- tax debt exception
+Cornell LII - tax debt exception
 
 IRS Publication 908
 IRS bankruptcy tax guide
@@ -632,20 +632,22 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## 1099-C Cancellation of Debt -- Tax Guide [2026]
+## 1099-C Cancellation of Debt - Tax Guide [2026]
 Source: https://1099cdebt.com/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
 1099-C Cancellation of Debt
 
-Quick answer: Forgiven debt over $600 is reported on a 1099-C and taxed as income -- but if you were insolvent or filed bankruptcy, you may owe nothing.
+Quick answer: Forgiven debt over $600 is reported on a 1099-C and taxed as income - but if you were insolvent or filed bankruptcy, you may owe nothing.
 
 When Forgiven Debt Becomes Taxable Income
 
 What Is a 1099-C?
 
-A 1099-C is a tax form that a creditor sends to you and the IRS when they cancel or forgive $600 or more of your debt. The IRS treats cancelled debt as taxable income -- because you received the benefit of the money but no longer have to repay it. If you settled a $20,000 credit card debt for $8,000, you may receive a 1099-C for $12,000, and the IRS considers that $12,000 as income.
+A 1099-C is a tax form that a creditor sends to you and the IRS when they cancel or forgive $600 or more of your debt. The IRS treats cancelled debt as taxable income - because you received the benefit of the money but no longer have to repay it. If you settled a $20,000 credit card debt for $8,000, you may receive a 1099-C for $12,000, and the IRS considers that $12,000 as income.
 
 This can create a devastating surprise at tax time. People who thought they resolved their debt problems discover they owe thousands in taxes on "phantom income" they never actually received.
 
@@ -663,17 +665,17 @@ Example: Total debts of $80,000, total assets of $50,000 = insolvent by $30,000.
 
 The Bankruptcy Exclusion
 
-Debt discharged in bankruptcy is completely excluded from taxable income -- no limits, no calculations needed. If you received a 1099-C for a debt that was discharged in bankruptcy, file Form 982 checking the "Discharge of indebtedness in a title 11 case" box. You owe zero tax. For a broader overview of how the IRS treats bankruptcy cases, see our guide on bankruptcy and tax obligations.
+Debt discharged in bankruptcy is completely excluded from taxable income - no limits, no calculations needed. If you received a 1099-C for a debt that was discharged in bankruptcy, file Form 982 checking the "Discharge of indebtedness in a title 11 case" box. You owe zero tax. For a broader overview of how the IRS treats bankruptcy cases, see our guide on bankruptcy and tax obligations.
 
 This is one of the underappreciated advantages of bankruptcy over debt settlement. With settlement, you may owe tax on the forgiven amount. With bankruptcy, the discharged debt is never taxable. Compare the true costs.
 
 Other Exclusions
 
-Qualified principal residence indebtedness: Mortgage debt forgiven through foreclosure, short sale, or modification may be excluded (up to $750,000). This provision has been extended multiple times -- check current law. Qualified farm indebtedness: Special rules for farm debt cancellation. Non-recourse debt: If the debt was secured by property and the creditor's only recourse was the property itself, the cancellation may not be taxable income (treated instead as a sale).
+Qualified principal residence indebtedness: Mortgage debt forgiven through foreclosure, short sale, or modification may be excluded (up to $750,000). This provision has been extended multiple times - check current law. Qualified farm indebtedness: Special rules for farm debt cancellation. Non-recourse debt: If the debt was secured by property and the creditor's only recourse was the property itself, the cancellation may not be taxable income (treated instead as a sale).
 
 How to Fill Out Form 982
 
-Step 1: Determine which exclusion applies (bankruptcy, insolvency, qualified residence). Step 2: Check the appropriate box in Part I. Step 3: Enter the amount excluded on line 2. Step 4: Complete Part II -- reduce your tax attributes (NOL carryovers, capital loss carryovers, basis in assets). Step 5: Attach Form 982 to your tax return.
+Step 1: Determine which exclusion applies (bankruptcy, insolvency, qualified residence). Step 2: Check the appropriate box in Part I. Step 3: Enter the amount excluded on line 2. Step 4: Complete Part II - reduce your tax attributes (NOL carryovers, capital loss carryovers, basis in assets). Step 5: Attach Form 982 to your tax return.
 
 If you are insolvent, you will need to calculate your total debts and total assets at the moment immediately before the debt was cancelled. Include everything: mortgage, car loans, credit cards, student loans, medical bills. Assets include home value, vehicles, bank accounts, retirement accounts, and personal property.
 
@@ -717,23 +719,23 @@ Bankruptcy does not prevent the creditor from issuing a 1099-C, but debt dischar
 
 Explore Our Guides
 
-What Is a 1099-C? -- A 1099-C reports cancelled debt as income to the IRS. Understand when you'll receive one, what it means for your taxes,
+What Is a 1099-C? - A 1099-C reports cancelled debt as income to the IRS. Understand when you'll receive one, what it means for your taxes,
 
-The Insolvency Exclusion -- The insolvency exclusion lets you exclude cancelled debt from taxable income if your debts exceed your assets. Complete
+The Insolvency Exclusion - The insolvency exclusion lets you exclude cancelled debt from taxable income if your debts exceed your assets. Complete
 
-How to File IRS Form 982 -- Step-by-step guide to completing IRS Form 982 for the insolvency exclusion, bankruptcy discharge, and other cancelled de
+How to File IRS Form 982 - Step-by-step guide to completing IRS Form 982 for the insolvency exclusion, bankruptcy discharge, and other cancelled de
 
-Cancelled Mortgage Debt -- Foreclosure, short sale, and loan modification can trigger 1099-C income. Understand the tax treatment, exclusions, and
+Cancelled Mortgage Debt - Foreclosure, short sale, and loan modification can trigger 1099-C income. Understand the tax treatment, exclusions, and
 
-Credit Card Debt Cancellation -- When credit card debt is settled, written off, or cancelled, you may owe taxes on the forgiven amount. How to handle the
+Credit Card Debt Cancellation - When credit card debt is settled, written off, or cancelled, you may owe taxes on the forgiven amount. How to handle the
 
-Student Loan Cancellation and Taxes -- Student loan forgiveness may be taxable depending on the program and the year. PSLF, IDR, TPD, and other programs have d
+Student Loan Cancellation and Taxes - Student loan forgiveness may be taxable depending on the program and the year. PSLF, IDR, TPD, and other programs have d
 
-Short Sale Tax Impact -- A short sale can trigger significant tax consequences. Understand the 1099-C implications, exclusions, and how to minimi
+Short Sale Tax Impact - A short sale can trigger significant tax consequences. Understand the 1099-C implications, exclusions, and how to minimi
 
-Statute of Limitations on 1099-C -- There are statutes of limitations on both the debt itself and the tax on cancelled debt income. Understand when the IRS
+Statute of Limitations on 1099-C - There are statutes of limitations on both the debt itself and the tax on cancelled debt income. Understand when the IRS
 
-Common 1099-C Mistakes -- Avoid these costly mistakes when dealing with cancelled debt and 1099-C forms. From ignoring the form to missing exclusi
+Common 1099-C Mistakes - Avoid these costly mistakes when dealing with cancelled debt and 1099-C forms. From ignoring the form to missing exclusi
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -769,7 +771,7 @@ Further Reading & Resources
 Authority sources for deeper research on taxes and bankruptcy:
 
 11 U.S.C. Section 523(a)(1)
-Cornell LII -- tax debt exception
+Cornell LII - tax debt exception
 
 IRS Publication 908
 IRS bankruptcy tax guide
@@ -817,7 +819,7 @@ creditcardforgiveness.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -960,6 +962,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 1099cdebt.com
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -973,9 +976,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Insolvency Exclusion for 1099-C Debt -- How to Avoid the Tax
+## Insolvency Exclusion for 1099-C Debt - How to Avoid the Tax
 Source: https://1099cdebt.com/insolvency-exclusion.html
 
 The Insolvency Exclusion
@@ -992,7 +997,7 @@ This is the most commonly used exclusion for consumer debt cancellation. Many pe
 
 Calculating Insolvency
 
-Total debts include: All debts -- credit cards, medical bills, student loans (even non-dischargeable ones), mortgage balance, auto loans, personal loans, judgments, tax debts, everything you owe. Total assets include: Cash, bank accounts, retirement accounts (yes, include these even though they're exempt from creditors), real estate equity, vehicle equity, personal property, investments, and business interests.
+Total debts include: All debts - credit cards, medical bills, student loans (even non-dischargeable ones), mortgage balance, auto loans, personal loans, judgments, tax debts, everything you owe. Total assets include: Cash, bank accounts, retirement accounts (yes, include these even though they're exempt from creditors), real estate equity, vehicle equity, personal property, investments, and business interests.
 
 Calculate both totals as of immediately before the cancellation. If debts > assets, you're insolvent. The exclusion is limited to the amount of insolvency. Example: debts $80,000, assets $60,000, cancelled debt $25,000. Insolvency = $20,000. You can exclude $20,000 but must include $5,000 as income.
 
@@ -1000,13 +1005,13 @@ Filing Form 982
 
 To claim the insolvency exclusion, file IRS Form 982 (Reduction of Tax Attributes Due to Discharge of Indebtedness) with your tax return. Check Box 1b ("Discharge of indebtedness to the extent insolvent"). Enter the excluded amount on Line 2. Attach a worksheet showing your insolvency calculation (debts and assets).
 
-Keep detailed documentation: credit reports showing all debts, bank statements showing account balances, property valuations, retirement account statements -- all as of the date immediately before the debt was cancelled. If audited, the IRS will want to verify your insolvency calculation.
+Keep detailed documentation: credit reports showing all debts, bank statements showing account balances, property valuations, retirement account statements - all as of the date immediately before the debt was cancelled. If audited, the IRS will want to verify your insolvency calculation.
 
 Frequently Asked Questions
 
 Do I include retirement accounts in my assets for insolvency?
 
-Yes. Unlike bankruptcy exemptions, the insolvency calculation includes ALL assets -- even retirement accounts that would be exempt from creditors. This can reduce or eliminate your insolvency if you have significant retirement savings.
+Yes. Unlike bankruptcy exemptions, the insolvency calculation includes ALL assets - even retirement accounts that would be exempt from creditors. This can reduce or eliminate your insolvency if you have significant retirement savings.
 
 Can I use insolvency for mortgage debt cancellation?
 
@@ -1044,7 +1049,7 @@ Further Reading & Resources
 Authority sources for deeper research on taxes and bankruptcy:
 
 11 U.S.C. Section 523(a)(1)
-Cornell LII -- tax debt exception
+Cornell LII - tax debt exception
 
 IRS Publication 908
 IRS bankruptcy tax guide
@@ -1136,7 +1141,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Short Sale Tax Impact -- What You Owe the IRS After Selling for Less
+## Short Sale Tax Impact - What You Owe the IRS After Selling for Less
 Source: https://1099cdebt.com/short-sale-tax-impact.html
 
 Short Sale Tax Impact
@@ -1149,17 +1154,17 @@ How a Short Sale Creates Tax Liability
 
 In a short sale, you sell your home for less than the outstanding mortgage balance with the lender's approval. The lender forgives the remaining balance (the deficiency). This forgiven amount is cancellation of debt income reported on a 1099-C. If you owed $280,000, sold for $220,000, and the lender forgave the $60,000 difference, you'd receive a 1099-C for $60,000.
 
-Additionally, the sale itself may create a capital gain or loss. If you sold for more than your tax basis (what you paid plus improvements), you have a capital gain. If you sold for less, you have a capital loss -- but capital losses on personal residences are not deductible. This double impact (1099-C income plus non-deductible loss) is the harsh reality of short sales.
+Additionally, the sale itself may create a capital gain or loss. If you sold for more than your tax basis (what you paid plus improvements), you have a capital gain. If you sold for less, you have a capital loss - but capital losses on personal residences are not deductible. This double impact (1099-C income plus non-deductible loss) is the harsh reality of short sales.
 
 Available Exclusions
 
-Mortgage Forgiveness Debt Relief Act: If available for your tax year, excludes up to $750,000 of cancelled debt on your primary residence. Insolvency exclusion: Always available. If debts > assets at the time of sale, exclude up to the insolvency amount. Bankruptcy: Debt discharged in bankruptcy is excluded from income. Non-recourse mortgage: In states where the mortgage is non-recourse, there's no cancellation of debt -- the lender's only remedy was the property itself.
+Mortgage Forgiveness Debt Relief Act: If available for your tax year, excludes up to $750,000 of cancelled debt on your primary residence. Insolvency exclusion: Always available. If debts > assets at the time of sale, exclude up to the insolvency amount. Bankruptcy: Debt discharged in bankruptcy is excluded from income. Non-recourse mortgage: In states where the mortgage is non-recourse, there's no cancellation of debt - the lender's only remedy was the property itself.
 
 File Form 982 with your tax return to claim any applicable exclusion. You must choose only one exclusion per cancelled debt, though some can be combined if they cover different portions.
 
 Negotiating Tax Consequences in the Short Sale
 
-Before completing a short sale, understand the tax implications and negotiate accordingly. Request that the lender issue a full release -- some lenders forgive the deficiency in the short sale agreement, while others reserve the right to pursue you for it later. Get the release in writing. Confirm whether the lender will issue a 1099-C and for what amount. Calculate your insolvency before closing to know whether you'll owe taxes.
+Before completing a short sale, understand the tax implications and negotiate accordingly. Request that the lender issue a full release - some lenders forgive the deficiency in the short sale agreement, while others reserve the right to pursue you for it later. Get the release in writing. Confirm whether the lender will issue a 1099-C and for what amount. Calculate your insolvency before closing to know whether you'll owe taxes.
 
 If the tax hit from a short sale is significant and you can't use any exclusion, compare it to the alternatives: Chapter 7 bankruptcy can discharge both the mortgage deficiency and the tax (if filed before the 1099-C tax is assessed), and the cancellation income is excluded in bankruptcy. Sometimes bankruptcy before or instead of a short sale produces a better overall outcome.
 
@@ -1167,7 +1172,7 @@ Frequently Asked Questions
 
 Is a short sale better than foreclosure for taxes?
 
-The tax treatment is similar -- both can trigger a 1099-C for the deficiency. The practical difference is that a short sale gives you more control over timing and terms. You can negotiate the deficiency release and plan for the tax consequences before closing.
+The tax treatment is similar - both can trigger a 1099-C for the deficiency. The practical difference is that a short sale gives you more control over timing and terms. You can negotiate the deficiency release and plan for the tax consequences before closing.
 
 Can the lender pursue me for the deficiency after a short sale?
 
@@ -1205,7 +1210,7 @@ Further Reading & Resources
 Authority sources for deeper research on taxes and bankruptcy:
 
 11 U.S.C. Section 523(a)(1)
-Cornell LII -- tax debt exception
+Cornell LII - tax debt exception
 
 IRS Publication 908
 IRS bankruptcy tax guide
@@ -1289,7 +1294,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Statute of Limitations on 1099-C -- When Old Cancelled Debt Tax Expires
+## Statute of Limitations on 1099-C - When Old Cancelled Debt Tax Expires
 Source: https://1099cdebt.com/sol-on-1099c.html
 
 Statute of Limitations on 1099-C
@@ -1324,7 +1329,7 @@ The IRS matching process can take 12-18 months or longer. Just because they have
 
 Can the IRS collect tax on a 1099-C forever?
 
-If you filed a return for the applicable year, the IRS has 3 years to assess additional tax and 10 years to collect assessed tax. If you never filed a return, there's no assessment statute -- the IRS can assess at any time. If you've been assessed, the 10-year collection period starts from the assessment date.
+If you filed a return for the applicable year, the IRS has 3 years to assess additional tax and 10 years to collect assessed tax. If you never filed a return, there's no assessment statute - the IRS can assess at any time. If you've been assessed, the 10-year collection period starts from the assessment date.
 
 What if the 1099-C was issued in error?
 
@@ -1358,7 +1363,7 @@ Further Reading & Resources
 Authority sources for deeper research on taxes and bankruptcy:
 
 11 U.S.C. Section 523(a)(1)
-Cornell LII -- tax debt exception
+Cornell LII - tax debt exception
 
 IRS Publication 908
 IRS bankruptcy tax guide
@@ -1442,7 +1447,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Student Loan Cancellation and Taxes -- Is Forgiveness Taxable?
+## Student Loan Cancellation and Taxes - Is Forgiveness Taxable?
 Source: https://1099cdebt.com/student-loan-cancellation.html
 
 Student Loan Cancellation and Taxes
@@ -1453,15 +1458,15 @@ Home » Student Loan Cancellation and Taxes
 
 Tax Treatment by Program
 
-Not all student loan forgiveness is treated the same for taxes: PSLF: Permanently tax-free (IRC 108(f)(1)). IDR forgiveness (20-25 years): Tax-free through 2025 under the American Rescue Plan; after 2025, may be taxable. Teacher Loan Forgiveness: Same as IDR -- tax-free through 2025, uncertain after. TPD Discharge: Tax-free through 2025. Closed School/Borrower Defense: Tax-free through 2025. Bankruptcy discharge: Always tax-free (excluded under IRC 108(a)(1)(A)).
+Not all student loan forgiveness is treated the same for taxes: PSLF: Permanently tax-free (IRC 108(f)(1)). IDR forgiveness (20-25 years): Tax-free through 2025 under the American Rescue Plan; after 2025, may be taxable. Teacher Loan Forgiveness: Same as IDR - tax-free through 2025, uncertain after. TPD Discharge: Tax-free through 2025. Closed School/Borrower Defense: Tax-free through 2025. Bankruptcy discharge: Always tax-free (excluded under IRC 108(a)(1)(A)).
 
 The key question for most borrowers is what happens after 2025. If the American Rescue Plan provisions expire, non-PSLF forgiveness becomes taxable. This could create a massive tax bill for borrowers with large balances forgiven under IDR. Learn about IDR forgiveness.
 
 The IDR Tax Bomb
 
-If IDR forgiveness becomes taxable after 2025, a borrower who started with $100,000 in loans could owe taxes on $200,000+ (because negative amortization grows the balance over 20-25 years). At a 22% tax rate, that's a $44,000 tax bill -- in a single year. This is known as the IDR tax bomb.
+If IDR forgiveness becomes taxable after 2025, a borrower who started with $100,000 in loans could owe taxes on $200,000+ (because negative amortization grows the balance over 20-25 years). At a 22% tax rate, that's a $44,000 tax bill - in a single year. This is known as the IDR tax bomb.
 
-Potential defenses against the tax bomb: insolvency exclusion -- if your debts (including the about-to-be-forgiven student loan) exceed your assets, some or all of the forgiveness is excludable. IRS payment plans -- the tax can be paid over time. Offer in Compromise -- if you can't pay the full tax, the IRS may accept a reduced amount.
+Potential defenses against the tax bomb: insolvency exclusion - if your debts (including the about-to-be-forgiven student loan) exceed your assets, some or all of the forgiveness is excludable. IRS payment plans - the tax can be paid over time. Offer in Compromise - if you can't pay the full tax, the IRS may accept a reduced amount.
 
 Planning for Potential Taxation
 
@@ -1511,7 +1516,7 @@ Further Reading & Resources
 Authority sources for deeper research on taxes and bankruptcy:
 
 11 U.S.C. Section 523(a)(1)
-Cornell LII -- tax debt exception
+Cornell LII - tax debt exception
 
 IRS Publication 908
 IRS bankruptcy tax guide
@@ -1595,7 +1600,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## What Is a 1099-C? -- Cancellation of Debt Income
+## What Is a 1099-C? - Cancellation of Debt Income
 Source: https://1099cdebt.com/what-is-1099-c.html
 
 What Is a 1099-C?
@@ -1608,7 +1613,7 @@ The Basics of Cancelled Debt Income
 
 When a creditor cancels or forgives $600 or more of debt, they're required to report it to the IRS on Form 1099-C, Cancellation of Debt. The cancelled amount is treated as ordinary income on your tax return. If a credit card company writes off $10,000 of your debt, the IRS considers that $10,000 in income, potentially creating a tax bill of $2,000-3,500 depending on your bracket.
 
-This surprises many people who thought their debt problems were over when the creditor stopped collecting. The debt may be gone, but the tax obligation replaces it. However, several exclusions exist that can reduce or eliminate the tax -- most importantly, the insolvency exclusion.
+This surprises many people who thought their debt problems were over when the creditor stopped collecting. The debt may be gone, but the tax obligation replaces it. However, several exclusions exist that can reduce or eliminate the tax - most importantly, the insolvency exclusion.
 
 When You'll Receive a 1099-C
 
@@ -1618,7 +1623,7 @@ The 1099-C is filed for the tax year in which the cancellation occurs. You shoul
 
 A 1099-C Doesn't Mean You Owe Nothing
 
-Important nuance: receiving a 1099-C doesn't necessarily mean the debt is fully cancelled. In some cases, creditors issue 1099-Cs while continuing to pursue collection -- particularly debt buyers who purchase the account after the original creditor wrote it off. The IRS reporting and the debt obligation are technically separate.
+Important nuance: receiving a 1099-C doesn't necessarily mean the debt is fully cancelled. In some cases, creditors issue 1099-Cs while continuing to pursue collection - particularly debt buyers who purchase the account after the original creditor wrote it off. The IRS reporting and the debt obligation are technically separate.
 
 If you receive a 1099-C but are still being contacted about the debt, consult with a tax professional and a consumer rights attorney. You may need to address both the tax reporting and the ongoing collection activity. Check whether the statute of limitations has expired.
 
@@ -1655,6 +1660,10 @@ SBA Borrower Bankruptcy
 
 SBA Loans in Bankruptcy
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -1664,7 +1673,7 @@ Further Reading & Resources
 Authority sources for deeper research on taxes and bankruptcy:
 
 11 U.S.C. Section 523(a)(1)
-Cornell LII -- tax debt exception
+Cornell LII - tax debt exception
 
 IRS Publication 908
 IRS bankruptcy tax guide
@@ -1756,10 +1765,82 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
+## Privacy Policy - 1099cdebt.com
+Source: https://1099cdebt.com/privacy.html
+
+1099cdebt.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+---
+
 ## Additional FAQ Pages
 
 
-### Do I have to pay taxes on a 1099-C? -- 1099-C Cancelled Debt Tax Guide
+### Do I have to pay taxes on a 1099-C? - 1099-C Cancelled Debt Tax Guide
 Source: https://1099cdebt.com/paa/do-i-have-to-pay-taxes-on-a-1099-c.html
 
 Skip to content
@@ -1775,7 +1856,7 @@ People Also Ask
 
 Do I have to pay taxes on a 1099-C?
 
-Generally yes -- cancelled debt is taxable income. However, major exclusions exist: you owe no taxes if you were insolvent (debts exceeded assets) at the time of cancellation, if the debt was discharged in bankruptcy, or if it was qualified principal residence debt. File IRS Form 982 to claim any exclusion.
+Generally yes - cancelled debt is taxable income. However, major exclusions exist: you owe no taxes if you were insolvent (debts exceeded assets) at the time of cancellation, if the debt was discharged in bankruptcy, or if it was qualified principal residence debt. File IRS Form 982 to claim any exclusion.
 
 Receiving a 1099-C does not automatically mean you owe taxes. Several exclusions can eliminate the tax liability entirely.
 
@@ -1823,7 +1904,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### Common Questions -- 1099-C Cancelled Debt Tax Guide
+### Common Questions - 1099-C Cancelled Debt Tax Guide
 Source: https://1099cdebt.com/paa/index.html
 
 1099cdebt.com
@@ -1839,6 +1920,24 @@ Do I have to pay taxes on a 1099-C?
 
 What is the insolvency exclusion for cancelled debt?
 
+Tax Implications of Bankruptcy and Debt Cancellation
+
+The intersection of bankruptcy and tax law creates important planning opportunities. Debt discharged in bankruptcy is excluded from taxable income under IRC Section 108(a)(1)(A), but you must properly report the exclusion using IRS Form 982. Outside of bankruptcy, cancelled debt is generally taxable income, though the insolvency exclusion under IRC Section 108(a)(1)(B) can eliminate or reduce the tax liability if your debts exceeded your assets at the time of cancellation.
+
+Frequently Asked Questions
+
+Does bankruptcy clear tax debt?
+
+Some tax debts can be discharged in bankruptcy if they meet specific criteria: the tax return was due more than 3 years ago, was filed more than 2 years ago, and was assessed more than 240 days ago. Fraud penalties and trust fund taxes (withheld payroll taxes) generally cannot be discharged.
+
+Will I get a 1099-C after bankruptcy?
+
+Creditors may still issue a 1099-C for cancelled debt even after a bankruptcy discharge. However, debt discharged in bankruptcy is excluded from taxable income under IRC Section 108. File IRS Form 982 with your tax return to claim the exclusion. Keep your discharge order as documentation.
+
+Do I need to file tax returns before filing bankruptcy?
+
+Yes. You must be current on tax filings for at least the past 4 years before filing bankruptcy. The bankruptcy trustee will request copies of recent returns, and failure to provide them can result in dismissal of your case. Filing returns is also a prerequisite for discharging older tax debts.
+
 Part of the Bankruptcy Transparency Network
 
 1328f.com
@@ -1846,7 +1945,7 @@ openbankruptcyproject.org
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
 
-### What is the insolvency exclusion for cancelled debt? -- 1099-C Cancelled Debt Tax Guide
+### What is the insolvency exclusion for cancelled debt? - 1099-C Cancelled Debt Tax Guide
 Source: https://1099cdebt.com/paa/what-is-the-insolvency-exclusion-for-cancelled-debt.html
 
 Skip to content
@@ -1882,7 +1981,7 @@ Total assets: $50,000. Total liabilities: $80,000. Insolvency amount: $30,000. I
 
 What Counts as an Asset?
 
-The IRS includes virtually everything you own: cash, bank balances, real estate equity, vehicle value, investment accounts, business interests, and personal property. Whether retirement accounts count is debated -- some tax professionals exclude ERISA-protected retirement accounts from the calculation, which can increase your insolvency amount.
+The IRS includes virtually everything you own: cash, bank balances, real estate equity, vehicle value, investment accounts, business interests, and personal property. Whether retirement accounts count is debated - some tax professionals exclude ERISA-protected retirement accounts from the calculation, which can increase your insolvency amount.
 
 Filing the Exclusion
 
